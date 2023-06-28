@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
