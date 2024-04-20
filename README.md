@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
